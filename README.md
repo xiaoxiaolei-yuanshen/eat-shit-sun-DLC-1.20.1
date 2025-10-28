@@ -5,3 +5,55 @@
 <img width="1920" height="1080" alt="icon" src="https://github.com/user-attachments/assets/1cfa0cb8-9240-4dae-a1fb-5024414fe245" />
 
 ![D8EE5F58DED89C95669EBB45355D65FA](https://github.com/user-attachments/assets/f65616eb-ab21-4c31-8fd0-cda2c0f16e9d)
+
+
+# Korea Mod for Minecraft 1.21
+
+一个有趣的 Minecraft 1.21 模组，包含朝鲜主题的各种效果和音乐。
+
+## 功能特色
+
+### 北朝鲜功能 (恩情效果)
+- 穿着全套下界合金盔甲时，周围的中立生物会跳跃并朝玩家移动
+- 播放朝鲜特色音乐（阿悠悠 - 你若三冬系列）
+- 触发各种有趣的随机文本
+- 在玩家位置放置光源方块
+- 自动杀死光源附近的敌对生物
+
+### 南朝鲜功能 (忠诚效果)
+- 卫道士拿着下界合金斧追村民时播放"光州无限制格斗大赛"音乐
+- 触发卫道士和村民的对话文本
+
+## 安装要求
+
+- Minecraft 1.21
+- Forge Mod Loader
+
+## 使用方法
+
+### 按键绑定
+- **V 键**: 切换恩情效果（北朝鲜功能）
+- **B 键**: 切换中立生物跟随
+- **C 键**: 切换忠诚效果（南朝鲜功能）
+
+### 效果触发条件
+- **恩情效果**: 穿着全套下界合金盔甲 + 效果启用
+- **忠诚效果**: 卫道士持下界合金斧攻击村民 + 效果启用
+
+## 编译说明
+
+1. 克隆仓库
+2. 运行 `./gradlew build` (Linux/Mac) 或 `gradlew build` (Windows)
+3. 生成的模组文件在 `build/libs/` 目录
+
+## 贡献
+
+欢迎提交 Issue 和 Pull Request！
+
+## 许可证
+
+本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
+
+## 免责声明
+
+本模组仅供娱乐目的，不涉及任何政治立场。
