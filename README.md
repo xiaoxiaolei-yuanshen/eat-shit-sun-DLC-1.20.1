@@ -26,7 +26,7 @@
 
 ## 安装要求
 
-- Minecraft 1.21
+- Minecraft 1.20.1
 - Forge Mod Loader
 
 ## 使用方法
@@ -40,19 +40,6 @@
 - **恩情效果**: 穿着全套下界合金盔甲 + 效果启用
 - **忠诚效果**: 卫道士持下界合金斧攻击村民 + 效果启用
 
-## 编译说明
-
-1. 克隆仓库
-2. 运行 `./gradlew build` (Linux/Mac) 或 `gradlew build` (Windows)
-3. 生成的模组文件在 `build/libs/` 目录
-
-## 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
-## 许可证
-
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
 
 ## 免责声明
 
