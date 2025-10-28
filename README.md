@@ -7,9 +7,24 @@
 ![D8EE5F58DED89C95669EBB45355D65FA](https://github.com/user-attachments/assets/f65616eb-ab21-4c31-8fd0-cda2c0f16e9d)
 
 
-# Korea Mod for Minecraft 1.21
+# Korea Mod for Minecraft 1.20.1
 
-一个有趣的 Minecraft 1.21 模组，包含朝鲜主题的各种效果和音乐。
+一个有趣的 Minecraft 1.20.1 模组，赤石材质的DLC，
+赤石材质的链接
+
+赤石材质1.0：https://www.bilibili.com/video/BV1FS3LzsEmo/
+![1 0](https://github.com/user-attachments/assets/860f9358-4bef-42ab-9d96-df65b2234fb1)
+
+赤石材质2.0：https://www.bilibili.com/video/BV1pj3dzuE3M/
+![2 0](https://github.com/user-attachments/assets/2892cae2-b626-4f2f-90d3-2bb5431f047c)
+
+赤石材质3.0：https://www.bilibili.com/video/BV1MNGTzjEjE/
+![3 0](https://github.com/user-attachments/assets/47be9342-f233-454e-83a4-70c8a5813b51)
+
+赤石材质4.0：https://www.bilibili.com/video/BV1KkgpzJEwQ/
+<img width="1024" height="643" alt="樱花林1" src="https://github.com/user-attachments/assets/f7818519-e4eb-4b65-8eab-97ae8a179c1d" />
+
+。
 
 ## 功能特色
 
